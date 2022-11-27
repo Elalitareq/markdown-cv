@@ -1,4 +1,4 @@
-# Tareq El-Ali
+## ![Profile](Profile.jpg "profile") 
 ## Contact Info
 * Email: elalitareq@gmail.com 
 * Phone: +96181587135
