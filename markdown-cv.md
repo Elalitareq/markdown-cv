@@ -24,6 +24,12 @@
 1. Fixing game problems.
 1. Bug testing and Googling.
 1. Fixing electric circuits.
+### Manager and It support at GoPro gaming lounge. (July-2018 till Feb-2020)
+1. Server management.
+1. Network management.
+1. Cashier.
+1. Solving game problems.
+1. Creating and managing cache server using lancache over CDNs and other http caching servers.
 ### Owner of Gtech gaming lounge and manager. (Jan-2020 till Jan-2021)
 * Same as the above.
 ### Cryptocurrency mining. (July-2020 till March-2021)
